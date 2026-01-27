@@ -1,4 +1,4 @@
-rom flask import Flask, render_template, request
+from flask import Flask, render_template, request
 import matplotlib.pyplot as plt
 import os
 
